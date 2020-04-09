@@ -7,7 +7,7 @@ def initialize
 end
 
 def learn(knowlege)
-  @knowlege << teacher.knowlege
+  @knowlege << knowlege
 end
 
   
