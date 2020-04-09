@@ -6,8 +6,8 @@ def initialize
   @knowledge = []
 end
 
-def learn
-  @knowlege << teacher.knowlege
+def learn(knowlege)
+  @knowlege << knowlege
 end
 
   
