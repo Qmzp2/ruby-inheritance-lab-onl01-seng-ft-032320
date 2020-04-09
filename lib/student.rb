@@ -7,7 +7,7 @@ def initialize
 end
 
 def learn(string)
-  @knowlege << string
+  knowlege << string
 end
 
   
